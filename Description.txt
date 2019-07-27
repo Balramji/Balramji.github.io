@@ -1,0 +1,4 @@
+This is simple static web page of ecommerse website that will help you to purchase products.
+
+
+I am not able to call api on this project and having some issue for this project.
